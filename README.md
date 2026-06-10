@@ -59,40 +59,6 @@ Performance on rare-event flare forecasting:
 
 ---
 
-## 🖥️ Streamlit Dashboard
-
-The interactive dashboard provides:
-
-- Risk timeline visualization  
-- Predicted alert windows  
-- Dataset preview  
-- Adjustable decision threshold  
-- Model configuration overview  
-
-🔬 Research Insights
-
-This project demonstrates:
-
-Early-warning framing is more effective than point prediction
-
-Physical signals improve calibration more than architecture alone
-
-Rare-event forecasting requires PR-AUC and TSS evaluation
-
-Performance plateaus highlight data limitations rather than model failure
-
-🧭 Future Work
-
-Magnetic field (HMI/SHARP) feature integration
-
-Multi-horizon forecasting (6h / 12h / 24h)
-
-Ensemble calibration methods
-
-Attention interpretability
-
-Real-time streaming inference
-
 👤 Author
 
 Sarthak Jagota
